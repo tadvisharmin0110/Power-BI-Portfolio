@@ -33,5 +33,5 @@ This project aligns with **SDG 8: Decent Work and Economic Growth** by analyzing
 (https://www.kaggle.com/datasets/belbino/life-expectancy-healthcare-spending-1960-present)
 
 Authors
-* Vaishnavi Bade
 * Sharmin Tadvi
+* Vaishnavi Bade
